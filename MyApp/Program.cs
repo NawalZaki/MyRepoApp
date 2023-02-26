@@ -8,6 +8,10 @@ namespace MyApp
 {
     class Program
     {
+        static void Print()
+        {
+            Console.WriteLine("My Fun From Local");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome With GitHupb From Console APP");
@@ -15,8 +19,9 @@ namespace MyApp
             int x = 3;
             string UserInput= Console.ReadLine();
             Console.WriteLine(UserInput + x);
-    //From Repo
+            //From Repo
             //From Local
+
             Console.ReadLine();
         }
     }
