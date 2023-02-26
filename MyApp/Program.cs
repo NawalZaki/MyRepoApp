@@ -12,6 +12,10 @@ namespace MyApp
         {
             Console.WriteLine("My Fun From Local");
         }
+        static int sum(int x, int y)
+        {
+            return x+y;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome With GitHupb From Console APP");
