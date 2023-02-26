@@ -10,7 +10,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome With GitHup");
+            Console.WriteLine("Welcome With GitHupb From Console APP");
 
             Console.ReadLine();
         }
