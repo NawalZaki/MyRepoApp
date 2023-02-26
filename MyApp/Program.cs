@@ -11,6 +11,7 @@ namespace MyApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome With GitHupb From Console APP");
+            Console.WriteLine("Hi From Remote Repo");
 
             Console.ReadLine();
         }
