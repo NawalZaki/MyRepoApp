@@ -12,11 +12,9 @@ namespace MyApp
         {
             Console.WriteLine("Welcome With GitHupb From Console APP");
             Console.WriteLine("Hi From Remote Repo");
+            int x = 3;
             string UserInput= Console.ReadLine();
-            Console.WriteLine(UserInput);
-            Console.WriteLine("I update From Repo");
-
-
+            Console.WriteLine(UserInput + x);
 
             Console.ReadLine();
         }
