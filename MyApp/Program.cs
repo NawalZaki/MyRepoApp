@@ -8,6 +8,10 @@ namespace MyApp
 {
     class Program
     {
+        static int sum(int x, int y)
+        {
+            return x+y;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome With GitHupb From Console APP");
