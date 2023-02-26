@@ -15,7 +15,6 @@ namespace MyApp
             int x = 3;
             string UserInput= Console.ReadLine();
             Console.WriteLine(UserInput + x);
-            //From Local
 
             Console.ReadLine();
         }
